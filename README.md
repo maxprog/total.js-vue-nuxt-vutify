@@ -1,4 +1,4 @@
-# Total.js + Vue.js + Nuxt + Vuetify
+# Total.js + Vue.js + Nuxt + Vuetify + Vue-Router
 
 ## Installation
 
