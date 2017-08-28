@@ -1,0 +1,27 @@
+{
+  "name": "total.js-vue-nuxt-vutify",
+  "version": "1.0.0",
+  "description": "integrating Total.js + Vue.js + Nuxt + Vuetify",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node debug.js",
+    "build": "nuxt build",
+    "prod": "npm run generate && node release.js",
+    "generate": "nuxt generate"
+  },
+  "keywords": [
+    "total.js",
+    "nuxt.js",
+    "vue.js"
+  ],
+  "author": "Greg Kroczek",
+  "dependencies": {
+    "nuxt": "latest",
+    "total.js": "latest",
+    "vuetify": "latest"
+  },
+  "devDependencies": {
+    "stylus": "latest",
+    "stylus-loader": "latest"
+  }
+}

@@ -1,0 +1,14 @@
+name                            : Total.js
+author                          : Greg Kroczek
+version                         : 1.0.0
+secret                          : secret-key-for-web
+
+// Vue configuration
+directory-public-virtual : /vue/
+directory-public : /public/
+directory-views : /public/
+default-layout :
+allow-compile-script : false
+allow-compile-html : false
+allow-compile-css : false
+allow-gzip : false

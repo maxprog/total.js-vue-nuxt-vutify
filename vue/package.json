@@ -1,0 +1,17 @@
+{
+  "name": "with-vuetify",
+  "dependencies": {
+    "nuxt": "latest",
+    "vuetify": "latest"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "devDependencies": {
+    "stylus": "latest",
+    "stylus-loader": "latest"
+  }
+}
