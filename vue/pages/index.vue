@@ -1,7 +1,12 @@
 <template>
+
+ <div class="title">
+    <h2>Vue2 on Total.js Platform</h2>
+
   <v-carousel>
     <v-carousel-item v-for="(src, i) in images" v-bind:src="src" :key="i"></v-carousel-item>
   </v-carousel>
+    </div>
 </template>
 
 <script>
